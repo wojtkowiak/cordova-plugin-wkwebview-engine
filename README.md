@@ -21,6 +21,7 @@
 
 Cordova WKWebView Engine
 ======
+### this fork is modified to allow untrusted certificates
 
 This plugin makes `Cordova` use the `WKWebView` component instead of the default `UIWebView` component, and is installable only on a system with the iOS 9.0 SDK. 
 
